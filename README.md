@@ -6,7 +6,8 @@ This repository documents my solutions to LeetCode problems as I prepare for tec
 
 | #    | Title                    | Solution                     | Difficulty |
 |------|--------------------------|------------------------------|------------|
-| 1768 | Merge Strings Alternately | [Python](./Easy/merge_strings_alternately.py) | Easy       |
+| 1768 | Merge Strings Alternately | [Python](./algorithms/strings/merge_strings_alternately.py) | Easy       |
+| 412 | Fizz Buzz | [Python](./algorithms/arrays/fizz_buzz.py) | Easy       |
 
 
 ## Folder Naming Conventions
