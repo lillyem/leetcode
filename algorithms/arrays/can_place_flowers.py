@@ -41,6 +41,9 @@ class Solution(object):
         count = 0
         length = len(flowerbed)
 
+        if n == 0:
+            return True 
+        
         for i in range(length):
             
             #if plot is empty
@@ -64,3 +67,4 @@ class Solution(object):
                         return True
 
         return False
+
