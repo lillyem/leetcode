@@ -9,6 +9,7 @@ This repository documents my solutions to LeetCode problems as I prepare for tec
 | 1768 | Merge Strings Alternately | [Python](./algorithms/strings/merge_strings_alternately.py) | Easy       |
 | 412 | Fizz Buzz | [Python](./algorithms/arrays/fizz_buzz.py) | Easy       |
 | 1071 | Greatest Common Divisor of Strings | [Python](./algorithms/strings/greatest_common_divisor_of_strings.py) | Easy  |
+| 1431 | Kids With the Greatest Number of Candies | [Python](./algorithms/arrays/kids_with_the_greatest_number_of_candies.py) | Easy |
 
 
 ## Folder Naming Conventions
