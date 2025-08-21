@@ -13,6 +13,7 @@ This repository documents my solutions to LeetCode problems as I prepare for tec
 | 345 | Reverse Vowels of a String | [Python](./algorithms/strings/reverse_vowels_of_a_string.py) | Easy |
 | 605 | Can Place Flowers | [Python](./algorithms/arrays/can_place_flowers.py) | Easy |
 | 392 | Is Subsequence | [Python](./algorithms/strings/is_subsequence.py) | Easy |
+| 11 | Container With Most Water | [Python](./algorithms/arrays/container_with_most_water.py) | Medium |
 
 ## Folder Naming Conventions
 
