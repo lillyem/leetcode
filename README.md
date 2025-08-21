@@ -12,6 +12,7 @@ This repository documents my solutions to LeetCode problems as I prepare for tec
 | 1431 | Kids With the Greatest Number of Candies | [Python](./algorithms/arrays/kids_with_the_greatest_number_of_candies.py) | Easy |
 | 345 | Reverse Vowels of a String | [Python](./algorithms/strings/reverse_vowels_of_a_string.py) | Easy |
 | 605 | Can Place Flowers | [Python](./algorithms/arrays/can_place_flowers.py) | Easy |
+| 392 | Is Subsequence | [Python](./algorithms/strings/is_subsequence.py) | Easy |
 
 ## Folder Naming Conventions
 
