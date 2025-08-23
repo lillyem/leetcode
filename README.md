@@ -17,6 +17,7 @@ This repository documents my solutions to LeetCode problems as I prepare for tec
 | 1679 | Max Number of K-Sum Pairs | [Python](./algorithms/arrays/max_number_of_ksum_pairs.py) | Medium |
 | 238 | Product of Array Except Self | [Python](./algorithms/arrays/product_of_array_except_self.py) | Medium |
 | 1493 | Longest Subarray of 1's After Deleting One Element | [Python](./algorithms/arrays/longest_subarray_of_1s_after_deleting_one_element.py) | Medium | 
+| 1456 | Maximum Number of Vowels in a Substring of Given Length | [Python](./algorithms/strings/maximum_number_of_vowels_in_a_substring_of_given_length.py) | Medium |
 
 ## Folder Naming Conventions
 
