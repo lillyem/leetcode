@@ -1,7 +1,7 @@
 """
-Source : https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75
+Source : https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/
 Author : Sonali Maharaj
-Date   : 19/08/2025
+Date   : 23/08/2025
 
 ****************************************************************************************************
 Given a binary array nums, you should delete one element from it.
