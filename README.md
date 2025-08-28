@@ -13,6 +13,7 @@ This repository documents my solutions to LeetCode problems as I prepare for tec
 | 345 | Reverse Vowels of a String | [Python](./algorithms/strings/reverse_vowels_of_a_string.py) | Easy |
 | 605 | Can Place Flowers | [Python](./algorithms/arrays/can_place_flowers.py) | Easy |
 | 392 | Is Subsequence | [Python](./algorithms/strings/is_subsequence.py) | Easy |
+| 283 | Move Zeroes | [Python](./algorithms/strings/move_zeroes.py) | Easy |
 | 11 | Container With Most Water | [Python](./algorithms/arrays/container_with_most_water.py) | Medium |
 | 1679 | Max Number of K-Sum Pairs | [Python](./algorithms/arrays/max_number_of_ksum_pairs.py) | Medium |
 | 238 | Product of Array Except Self | [Python](./algorithms/arrays/product_of_array_except_self.py) | Medium |
