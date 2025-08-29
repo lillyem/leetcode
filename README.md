@@ -20,7 +20,7 @@ This repository documents my solutions to LeetCode problems as I prepare for tec
 | 1493 | Longest Subarray of 1's After Deleting One Element | [Python](./algorithms/arrays/longest_subarray_of_1s_after_deleting_one_element.py) | Medium | 
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | [Python](./algorithms/strings/maximum_number_of_vowels_in_a_substring_of_given_length.py) | Medium |
 | 151 | Reverse Words in a String | [Python](./algorithms/strings/reverse_words_in_a_string.py) | Medium |
-| 334 | Increasing Triple Subsequence | [Python](./algorithms/arrays/increasing_triple_subsequence.py) | Medium |
+| 334 | Increasing Triplet Subsequence | [Python](./algorithms/arrays/increasing_triplet_subsequence.py) | Medium |
 
 ## Folder Naming Conventions
 
