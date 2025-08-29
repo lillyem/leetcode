@@ -21,6 +21,7 @@ This repository documents my solutions to LeetCode problems as I prepare for tec
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | [Python](./algorithms/strings/maximum_number_of_vowels_in_a_substring_of_given_length.py) | Medium |
 | 151 | Reverse Words in a String | [Python](./algorithms/strings/reverse_words_in_a_string.py) | Medium |
 | 334 | Increasing Triplet Subsequence | [Python](./algorithms/arrays/increasing_triplet_subsequence.py) | Medium |
+| 443 | String Compression | [Python](./algorithms/strings/string_compression.py) | Medium |
 
 ## Folder Naming Conventions
 
