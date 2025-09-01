@@ -39,21 +39,12 @@ explanation: check indices i,j,k to see if nums[i] < nums[j] < nums[k]
 edge cases: no triplet, nums length < 3
 psuedocode:
 
-if length of nums < 3:
-    return False
-
-first = +infinity
-second = +infinity
-
-for n in nums:
-    if n is less than or equal first:
-        first = n 
-    elif n is less than or equal to second:
-        second = n
-    else: 
-        return True
-
-return False
+1. create two variables to track qualfied i's & j's
+2. set the next element in nums to i 
+3. once i is set, the next number that is greater than i, becomes j
+4. the next number that is greater than j, becomes k and we return true
+5. if none is true, return false
+            
             
 
 """
