@@ -17,6 +17,7 @@ Example 1:
 
 Input: nums = [1,2,3,4]
 Output: [24,12,8,6]
+
 Example 2:
 
 Input: nums = [-1,1,0,-3,3]
@@ -56,21 +57,15 @@ edge cases:
 
 pseudocode:
 
-n = length of nums
-answer = array of size n, initialized with 1
+1.make a new array, answer, the same size as nums and fill it with 1s.
+2.go through the numbers from left to right, and for each one, put the product of all numbers before it in the new array.
+3.go through the numbers from right to left, and for each one, multiply what’s already in the array by the product of all numbers after it.
 
-prefix = 1
-for i from 0 to n-1:
-    answer[i] = prefix
-    prefix = prefix * nums[i]
 
-suffix = 1
-for i from n-1 down to 0:
-    answer[i] = answer[i] * suffix
-    suffix = suffix * nums[i]
+Example 1 run through: 
 
-return answer
-
+Input: nums = [1,2,3,4]
+Output: [24,12,8,6]
 
 for the first for loop: 
 #1. answer[i] = 1, prefix = 1, answer = [1 ,1, 1, 1]
