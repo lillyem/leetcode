@@ -51,6 +51,12 @@ input: chars []
 output: chars []
 explanation: count the instances of the same char and compress it in the same array with the char and number of that char after
 edgecases: array has 1 char, array has one of each char
+pseudocode:
+
+1. Initialize write = 0 and count = 1.
+2. Loop through the array from the second character to the end, counting consecutive characters.
+3. When the current character is different from the previous or at the end, write the previous character and its count (if >1) into the array at write, then reset count = 1.
+4. Return write as the new length of the compressed array.
 
 """
 class Solution(object):
