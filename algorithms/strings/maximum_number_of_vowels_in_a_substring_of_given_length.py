@@ -59,28 +59,12 @@ edge cases:
 
 pseudocode:
 
-vowels = set("aeiou")
-
-vowel_count = 0
-max_vowels = 0 
-
-for i in range(k):
-    if s[i] is a vowel:
-        increment vowel_count
-
-max_vowels = vowel_count
-
-for i in range k to length of s:
-
-    if the first char from the last window is a vowel:
-        decrement vowel_count 
-
-    if last char from the new window is a vowel:
-        increment vowel_count 
-    
-    max_vowels = maximum between max_vowels and vowel_count
-
-return max_vowels
+1. set the vowels to aeiou
+2. declare variables to keep track of the vowels in a window and the max vowels in any window
+3. find the amount of vowels in the first window
+4. go through the rest of the string, sliding the window, checking the amount of vowels and comparing to max_vowels
+5. if the vowel count is > max_vowels, set max_vowels to the vowel count
+6. return the max_vowels
 
 
 """
