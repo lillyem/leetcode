@@ -55,24 +55,12 @@ edgecases:
 
 pseudocode:
 
-left = 0       #track the start of the window
-zero_count = 0      
-max_ones = 0     
 
-for right in range(length of nums):
-    if nums at right is zero:
-        increment zero count
-
-    while zero count is greater than one:
-        if nums at left is zero:
-            decrement zero count #since we're gonna slide the window
-        increment the left count #slide the window, move the left pointer forward by one
-            
-            
-    max_ones = max of max_ones and right index - left index 
-
-return max_ones
-
+1. you have left and right variables to track the window, a max_ones variable to track the max number of 1s and a zero_count to track the zeroes in a window
+2. once the element is equal to 0, increment zero_count 
+3. while the zero_count > 1, when you slide the window, if the value at left is zero, minus 1 from the zero_count
+4. update the max_ones to be biggest value between itself and right - left
+5. return max_ones
 
 ****************************************************************************************************
 """
