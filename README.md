@@ -15,6 +15,11 @@ This repository documents my solutions to LeetCode problems as I prepare for tec
 | 392 | Is Subsequence | [Python](./algorithms/strings/is_subsequence.py) | Easy |
 | 283 | Move Zeroes | [Python](./algorithms/arrays/move_zeroes.py) | Easy |
 | 643 | Maximum Average Subarray I | [Python](./algorithms/arrays/maximum_average_subarray_I.py) | Easy |
+| 28 | Find the Index of the First Occurence in a String | [Python](./algorithms/strings/find_the_index_of_the_first_occurence_in_a_string.py) | Easy|
+| 125 | Valid Palindrome | [Python](./algorithms/strings/valid_palindrome.py) | Easy |
+| 344 | Reverse String | [Python](./algorithms/strings/reverse_string.py) | Easy |
+| 557 | Reverse Words in a String III | [Python](./algorithms/strings/reverse_words_in_a_string_III.py) | Easy |
+| 541 | Reverse String II | [Python](./algorithms/strings/reverse_string_II.py) | Easy |
 | 11 | Container With Most Water | [Python](./algorithms/arrays/container_with_most_water.py) | Medium |
 | 1679 | Max Number of K-Sum Pairs | [Python](./algorithms/arrays/max_number_of_ksum_pairs.py) | Medium |
 | 238 | Product of Array Except Self | [Python](./algorithms/arrays/product_of_array_except_self.py) | Medium |
